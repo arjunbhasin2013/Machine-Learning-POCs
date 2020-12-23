@@ -4,10 +4,10 @@
 
 Fraud Detection dataset project with a aim to implement various data analysis and machine learning modeling techniques. Following are the components in notebook:-
 
-1. Data Glimpse - Data Distribution of some of the continuous variables, Target variable distribution along with other variables, other EDA.
-2. Data Preparation - Balancing the unbalanced dataset, Data chunking.
-3. Data Preprocessing - Missing Values Treatment, Outlier detection & Capping, Feature Engineering & Data Encoding.
-4. Data Modeling - Baseline Random Forest, Adaboost (Ensemble), Linear SVC. Accuracy measures - AUC_ROC curve, Classification Matrix.
+Data Glimpse - Data Distribution of some of the continuous variables, Target variable distribution along with other variables, other EDA.
+Data Preparation - Balancing the unbalanced dataset, Data chunking.
+Data Preprocessing - Missing Values Treatment, Outlier detection & Capping, Feature Engineering & Data Encoding.
+Data Modeling - Baseline Random Forest, Adaboost (Ensemble), Linear SVC. Accuracy measures - AUC_ROC curve, Classification Matrix.
 
 Model Inferences and Conclusions in the end notes of py notebook.
 
